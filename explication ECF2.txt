@@ -1,0 +1,14 @@
+ECF 2 
+
+Problèmes rencontrés:
+
+1- Concernant l'intégration du plugin
+Le slide show, j'ai mis du temps à mettre de l'ordre dans l'arborescence des dossiers.
+
+2-Problème de syntaxe au niveau de jQuery mais grâce aux cours et à internet tout a été résolu 
+
+3- je n'ai pas utilisé l'image arrows.svg ainsi que le sy-loader.gif car je ne l'ai pas vu comme demandé dans l'exercice.
+
+Dans l'ensemble, j'ai pu gérer mon timing car j'avais vraiment très peur de ça.
+
+Merci à toute l'équipe CEFII ;))))))
